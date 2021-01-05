@@ -1,6 +1,6 @@
 ### Hi there 👋
 Ellie Huo's User Page
-Favorite Programming Language: Java
+Favorite Programming Language: Java 
 
 <!--
 **elhuo/elhuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
