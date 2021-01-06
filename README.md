@@ -36,7 +36,8 @@ Nested List
 - [ ] Smile
 - [ ] Be happy
 
-[hobbies](hobbies-after.JPG)
+![image](hobbies-after.JPG)
+
 
 <!--
 **elhuo/elhuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
