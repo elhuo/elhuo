@@ -9,7 +9,7 @@
 ***All bold and italic***
 
 Ellie says:
-> "I love fried chicken
+> "I love fried chicken"
 
 ```
 Hello world
@@ -29,12 +29,16 @@ Hello world
 3. Three
 
 Nested List
-    - Nested in the Nested List
-      - Nested in the Nested List
+- Nested in the Nested List
+  - Nested in the Nested List
 
 - [x] Drink water
 - [ ] Smile
 - [ ] Be happy
+
+![image](hobbies-after.JPG)
+
+
 <!--
 **elhuo/elhuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
