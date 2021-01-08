@@ -19,7 +19,7 @@ Hello world
 
 [section link](https://github.com/elhuo/elhuo#favorite-programming-language-java)
 
-[relative link to myself](hobbies-after.JPG)
+[relative link](hobbies-after.JPG)
 
 - KBBQ
 - Soup Dumplings
@@ -29,9 +29,9 @@ Hello world
 2. Two
 3. Three
 
-Nested List
-- Nested in the Nested List
-  - Nested in the Nested List
+1. Nested List
+   - Nested in the Nested List
+     - Nested in the Nested List
 
 - [x] Drink water
 - [ ] Smile
