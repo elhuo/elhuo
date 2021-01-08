@@ -3,9 +3,13 @@
 ##### email: elliehuo24596@gmail.com
 
 **bold**
+
 *italicized*
+
 ~~strikethrough~~
+
 **bold and nested _italic_**
+
 ***All bold and italic***
 
 Ellie says:
@@ -28,6 +32,8 @@ Hello world
 1. One
 2. Two
 3. Three
+
+
 
 1. Nested List
    - Nested in the Nested List
