@@ -17,9 +17,9 @@ Hello world
 
 [My Personal Website](https://elhuo.github.io/Personal-Website/)
 
-[section link](README.md)
+[section link](https://github.com/elhuo/elhuo#favorite-programming-language-java)
 
-[relative link to myself](README.md)
+[relative link to myself](hobbies-after.JPG)
 
 - KBBQ
 - Soup Dumplings
